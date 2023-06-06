@@ -28,6 +28,7 @@ This repository contains the code for object detection using the Faster R-CNN al
 3. Object Detection:
    - Modify the script `object_detection.py` to set the path to the trained model file (`faster_rcnn_model.pth`).
    - Run the script `object_detection.py` to perform object detection on a video file.
+
 Note:
 
 1. Place the video file (`video.mp4`) in the project directory.
